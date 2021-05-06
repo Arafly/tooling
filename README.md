@@ -45,6 +45,7 @@ git commit -m "Put some message about this push here"
 ```
 
 ## Push your changes to gitlab, and merge to dev branch
+
 ```
 git push --set-upstream origin feature/[Your branch name]
 ```
