@@ -30,7 +30,7 @@ Update the application code in the
 ./html/
 ```
 
-Then add/commit/push to gitlab
+Then add/commit/push to Gitlab
 
 ```
 git status # to see your changes
@@ -48,7 +48,7 @@ git commit -m "Put some message about this push here"
 git push --set-upstream origin feature/[Your branch name]
 ```
 
-### Validate your changes have been triggered by gitlab-ci in
+### Validate your changes have been triggered by Gitlab-ci in
 [propitix-scm] (https://gitlab.com/propitix/microservices/frontend-propitix)
 
 ### Check the image have been pushed to
